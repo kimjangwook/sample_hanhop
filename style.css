@@ -1,0 +1,50 @@
+.h1{
+   margin-block-start: 0px;
+   margin-block-end: 0px;
+}
+
+.span{
+   display: block;
+   margin-bottom: -20px;
+   margin-top: 20px;
+}
+
+.submit{
+   text-align: center;
+}
+
+.overview{
+   text-align: center;
+}
+
+.date{
+   text-align: center;
+}
+
+.place{
+   text-align: center;
+}
+
+.map{
+   text-align: center;
+}
+
+.price{
+   text-align: center;
+}
+
+.party{
+   text-align: center;
+}
+
+.entry{
+   text-align: center;
+}
+
+.input{
+   text-align: center;
+}
+
+.PartyEntry{
+   text-align: center;
+}
